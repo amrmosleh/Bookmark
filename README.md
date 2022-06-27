@@ -1,6 +1,6 @@
 <!-- The steps to problem solve software development challenges are: -->
 <!-- Define the problem -->
-1- There is a need to create an app that will allow us to bookmark a webage, save it and acces it anytime.
+1- We need to create an app that will allow us to bookmark websites, i.e. save, edit, delete it.
 
 <!-- Come up with solutions -->
 
@@ -18,4 +18,4 @@ Runtime Analysis
 Coding 
 Testing/Debugging
 
-# Bookmark
+
